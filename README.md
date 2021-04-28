@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating pretty webpage with some animation 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with everyone to get more exprerience and knowledge
-- 📫 Reach me avia email nguyenngocvietthinh@gmail.com
+- 📫 Reach me via email nguyenngocvietthinh@gmail.com
 
 Number of my demos
 
